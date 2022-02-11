@@ -1,7 +1,6 @@
 # simpliearn-project
 
 
+here are some changes
+hello Simplilearn
 
-
-
-here are some changes`
